@@ -13,3 +13,7 @@
 3. Геоинформационная система [**QGIS**](https://qgis.org/ru/site/) для визуализации и анализа полученных пространственных данных. Желательно установить модули (плагины) веб-картографии AusMap и QuickMapServices.
 
 ### Занятие 1. [Начало работы с виртуальной средой ecocloud](https://github.com/MaxCarabus/SDMworkshop/blob/master/ecocloud_1_getting_started.pdf) 
+
+
+- - - 
+
