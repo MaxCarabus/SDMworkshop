@@ -15,6 +15,7 @@
 ### Занятие 1. [Начало работы с виртуальной средой ecocloud](https://github.com/MaxCarabus/SDMworkshop/blob/master/ecocloud_1_getting_started.pdf) 
 
 <br>
+
 - - - 
 
 платформа ***ecocloud*** разработана и поддерживается специалистами в области IT и экологии из Австралии. <br>
